@@ -21,7 +21,7 @@ RAM: 16GB
 * Audio speaker
 * Audio jack connector
 * USB ports: custom made in USBPorts.kext
-* Display
+* Display (only DP, because I don't have a HDMI display. if you want to use the HDMI, you need patch by yourself.)
 
 ## What does not work
 

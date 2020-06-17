@@ -52,6 +52,17 @@
 				</data>
 				<key>ports</key>
 				<dict>
+					<key>HS03</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>255</integer>
+						<key>name</key>
+						<string>HS03</string>
+						<key>port</key>
+						<data>
+						AwAAAA==
+						</data>
+					</dict>
 					<key>HS05</key>
 					<dict>
 						<key>UsbConnector</key>

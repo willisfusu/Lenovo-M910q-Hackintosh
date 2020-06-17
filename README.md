@@ -2,6 +2,13 @@
 
 This EFI folder is used for Lenovo M910q to install hackintosh via Opencore. 
 
+## Update
+- 17-June-2020: 
+    -  delate some Kexts and SSDT. Only SSDT-PLUG_PR.CPU0.aml was used
+    -  update Opencore to 0.5.9
+    -  a acceptive solution for sleeping: just use lock the screen, do not use sleep
+
+
 ## Computer Spec
 
 CPU: i5-7600T
